@@ -8,3 +8,4 @@ for i in range(4):
     right(90)
     fd(7)
     right(90)
+czdcz
